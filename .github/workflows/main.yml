@@ -1,4 +1,4 @@
-name: "RPL-2023-CICD Demo"
+name: "Linter Test"
 on:
   push:
     branches:
