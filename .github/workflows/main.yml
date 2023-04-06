@@ -2,7 +2,7 @@ name: "Linter Test"
 on:
   push:
     branches:
-    - !main
+    - branch-1
 jobs:
   build:
     name: Build
